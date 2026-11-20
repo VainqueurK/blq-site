@@ -1,0 +1,18 @@
+Placeholder story music
+=======================
+
+These four loops are temporary placeholders, not final songs. They were
+converted to MP3 from the free "Shalayé" Afrobeat drumkit found locally at
+Documents\_Drum KITS\Shalayé drumkit (free)\Drumloops. That kit ships without
+a licence file, so treat these as review-only and replace them before any
+public release.
+
+  welcome.mp3  <- African drum beat_Gbafuka_120.wav
+  chat.mp3     <- No peace_Afrobeat drumloop_98.wav
+  idea.mp3     <- Afro drumloop_zaga_102.wav
+  room.mp3     <- Afrobeat drumloops_Experience_98.wav
+  journey.mp3  <- kybalion drumloop_101.wav
+
+To swap in the finished tracks, drop the files into this folder keeping the
+same names (welcome.mp3, chat.mp3, idea.mp3, room.mp3), or edit storyTracks
+in lib/audio.ts to point at new file names.
