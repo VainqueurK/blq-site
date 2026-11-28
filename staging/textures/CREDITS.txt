@@ -1,0 +1,28 @@
+mix-paper.webp
+Original BLQ zine material generated with the built-in image_gen tool on
+22 November 2026. This is a generated print-material texture, not an archival
+scan or a photograph of an actual document. The source PNG remains in the
+session's generated_images directory; this copy is resized and WebP-encoded
+for the website. Colour treatment is applied non-destructively in the browser.
+
+Final generation prompt:
+Use case: stylized-concept. Asset type: original raw material texture for the
+BLQ mobile cultural zine, NOT a finished poster or website mockup. Create one
+exceptionally tactile full-bleed portrait flatbed scan of a DIY black-music
+culture zine substrate, approximately 2:3 portrait. Warm ivory uncoated recycled
+paper fills most of the central area; rough carbon-black photocopied patches
+and ripped newsprint-free blank strips at the far edges; very subtle
+ember-orange dry-ink rub marks at bottom left and top right. A broad gently
+diagonal ragged tear crossing just the bottom fifth, delicate paper fibers,
+faint roller streaks, uneven toner density, rubbed-out ink, crumpled paste-up
+seams, small glue smudges and staple pinholes. Real analog printshop texture
+with graphic restraint, aggressive cut-and-paste culture, underground
+risograph scan, elegantly imperfect. Keep the center and upper half mostly
+quiet ivory paper for extremely large black typography and images to be
+composited later. Palette ONLY ivory #f0e8d9, carbon #17120e, tiny areas of
+ember #ff5a1f. Flat overhead scan, no perspective, no shadows cast outside
+paper, no room or desk scene. No text, no letters, no numbers, no icons, no
+photographs of people, no symbols or logos, no borders, no frames, no
+watermarks. Rich real fibrous surface detail that will read at phone scale.
+This should look like an actual scanned print material rather than a smooth
+digital gradient or an illustrated sheet of paper.

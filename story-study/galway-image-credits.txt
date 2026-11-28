@@ -1,0 +1,20 @@
+Galway story backgrounds
+
+galway-home.webp
+  Based on “City Centre, Eyre Square”, by Professor Chaosheng Zhang.
+  CC BY 4.0. https://commons.wikimedia.org/wiki/File:CityCentre_Eyre_Square.jpg
+
+galway-culture.webp
+  Based on “Shop Street, Galway”, by Yair Haklai.
+  CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Shop_Street-Galway.jpg
+
+galway-people.webp
+  Based on the Claddagh Gold sign at 1 Quay Street, by Joseph Mischyshyn.
+  CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Galway_-_1_Quay_Street_-_Claddagh_Gold_Sign_-_geograph.org.uk_-_3026438.jpg
+
+galway-you.webp
+  Based on “The Quadrangle at the University of Galway”, by Marathon.
+  CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:The_Quadrangle_at_the_University_of_Galway_-_geograph.org.uk_-_7863650.jpg
+
+All four source images have been cropped/resized, converted to WebP, and given a
+shared posterized duotone and halftone treatment for the BLQ story pages.

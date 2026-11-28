@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /work/
+Disallow: /dev/
+
+Host: https://blq.zone
+Sitemap: https://blq.zone/sitemap.xml

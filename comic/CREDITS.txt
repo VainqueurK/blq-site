@@ -1,0 +1,15 @@
+BLQ mobile comic print assets
+=============================
+
+Derived from the existing cleared assets in public/objects and public/photos.
+Their source credits remain in those directories. These add no new source art.
+
+The original SVG duotone, gamma, contrast and registration-shadow treatments
+are rendered once at up to 3x the comic artboard resolution, capped at each
+source's native detail, then stored as lossless WebP with transparency. The
+live composition retains its separate objects,
+photo masks, halftone dots, type, choreography and beat response.
+
+Recipes: scripts/comic-assets-source.json
+Rebuild: node scripts/bake-comic-assets.mjs
+Requires Node 22+, Chrome (or BROWSER_BIN), and Python Pillow.

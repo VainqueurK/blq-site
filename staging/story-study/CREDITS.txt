@@ -1,0 +1,37 @@
+BLQ story review — objects from the existing research vault.
+These remain reference assets with unverified licences, not cleared production artwork.
+Source manifest: work/vault/mixed-media-library/manifest.json
+
+telephone.webp — BLQ-827
+https://ie.pinterest.com/pin/894879388478210840/
+Original vault file: assets/objects-894879388478210840.png
+
+trainers.webp — BLQ-553
+https://ie.pinterest.com/pin/1103241240020573958/
+Original vault file: assets/objects-1103241240020573958.png
+
+dice.webp — BLQ-219
+https://ie.pinterest.com/pin/590604938675478462/
+Original vault file: assets/games-590604938675478462.png
+
+televisions.webp — BLQ-535
+https://ie.pinterest.com/pin/1100215383974309955/
+Original vault file: assets/objects-1100215383974309955.png
+
+tape.webp — BLQ-657
+https://ie.pinterest.com/pin/617133955220259838/
+Original vault file: assets/music-617133955220259838.png
+
+pass-record.webp — BLQ-126
+https://ie.pinterest.com/pin/928515648186110156/
+Original vault file: assets/music-928515648186110156.png
+
+coffee.webp — BLQ-296
+https://ie.pinterest.com/pin/642114859409320653/
+Original vault file: assets/food-642114859409320653.png
+
+culture-voice.webp — BLQ-159
+https://ie.pinterest.com/pin/443815738297650214/
+Original vault file: assets/music-443815738297650214.png
+
+Review derivatives resized to at most 1000px and encoded as WebP with alpha. Original vault files are unchanged.

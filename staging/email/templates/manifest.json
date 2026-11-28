@@ -1,0 +1,22 @@
+[
+  {
+    "id": "event-tease",
+    "emailType": "event_tease",
+    "name": "Keep a night loose",
+    "description": "A future event heads-up. The recorded test was addressed to Vanco.",
+    "subject": "Vanco, keep a night loose. (test)",
+    "stage": "Draft · test only",
+    "previewGreeting": "Vanco, we haven’t forgotten you.",
+    "templatePath": "/email/templates/event-tease.html"
+  },
+  {
+    "id": "signup-confirmation",
+    "emailType": "signup_confirmation",
+    "name": "You’re on the list",
+    "description": "The automatic note sent after someone completes their sign-up.",
+    "subject": "Your name’s down. We won’t lose you in the group chat.",
+    "stage": "Automatic sign-up receipt",
+    "previewGreeting": "Your name’s down, Vanco.",
+    "templatePath": "/email/templates/signup-confirmation.html"
+  }
+]

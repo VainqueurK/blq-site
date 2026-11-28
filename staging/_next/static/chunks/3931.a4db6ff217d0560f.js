@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[3931],{3931:(e,t,s)=>{s.r(t),s.d(t,{default:()=>n});var u=s(3970),i=s(1277);function n(e){let{onEditVibe:t,isActive:s}=e;return(0,u.jsx)(i.A,{isActive:s,onEditVibe:t})}}}]);

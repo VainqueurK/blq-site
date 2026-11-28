@@ -1,0 +1,26 @@
+BLQ Mix — photographic references selected on 22 November 2026.
+
+Selected from public Pinterest search results with the user's permission for
+this local creative preview. These are reference images, not photographs of
+BLQ gatherings. Pinterest is the discovery source; original photographers and
+publication permissions have not been verified. Original images are retained
+without retouching; framing and print effects are applied by the website.
+
+people.jpg
+  Discovery: https://ie.pinterest.com/pin/916834436644600216/
+  Image: https://i.pinimg.com/originals/63/35/a4/6335a4b3049ff8d512fa5face143e236.jpg
+  Description: flash-lit group portrait, dark clothing and expressive faces.
+
+table.jpg
+  Discovery: https://ie.pinterest.com/pin/766315692890751911/
+  Image: https://i.pinimg.com/originals/3d/b6/5c/3db65cd71d9db47b18ed0281507ee641.jpg
+  Description: candid gathering around a table of food and drinks.
+
+sound.jpg
+  Discovery: https://ie.pinterest.com/pin/1132092425082102743/
+  Image: https://i.pinimg.com/originals/c8/8a/45/c88a454a0b64e7f973fb9f532580ca6f.jpg
+  Description: friends laughing and singing together at a music gathering.
+
+The games-table reference remains public/photos/drop/drop-05.jpg, documented
+in public/photos/drop/MANIFEST.txt. Other collage cutouts are documented in
+public/collage/CREDITS.txt.
